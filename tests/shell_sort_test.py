@@ -1,6 +1,6 @@
 # Implementing a basic unit test for the shell_sort function.
 import unittest
-from src.Sorting_Algorithms.shell_sort import shell_sort
+from src.shell_sort import shell_sort
 
 
 class TestShellSort(unittest.TestCase):

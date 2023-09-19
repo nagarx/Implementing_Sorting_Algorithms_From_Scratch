@@ -1,5 +1,5 @@
 import unittest
-from src.Sorting_Algorithms.HeapSort import HeapSort
+from src.heap_sort import HeapSort
 
 class TestHeapSortAdvanced(unittest.TestCase):
 

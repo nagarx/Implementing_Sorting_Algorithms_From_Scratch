@@ -1,5 +1,5 @@
 import unittest
-from src.Sorting_Algorithms.radix_sort import radix_sort
+from src.radix_sort import radix_sort
 
 class TestRadixSort(unittest.TestCase):
 

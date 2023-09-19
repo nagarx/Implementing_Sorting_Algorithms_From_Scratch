@@ -32,4 +32,4 @@ def shell_sort(arr):
 test_array = [9, 8, 7, 6, 5, 4, 3, 2, 1]
 sorted_array = shell_sort(test_array.copy())
 
-test_array, sorted_array
+print(test_array, sorted_array)

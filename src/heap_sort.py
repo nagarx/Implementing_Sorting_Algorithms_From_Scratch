@@ -34,4 +34,4 @@ class HeapSort:
 sample_array = [12, 11, 13, 5, 6, 7]
 heap_sort = HeapSort(sample_array)
 sorted_array = heap_sort.sort()
-sorted_array
+print(sorted_array)

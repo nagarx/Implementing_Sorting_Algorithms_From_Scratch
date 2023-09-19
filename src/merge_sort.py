@@ -36,4 +36,4 @@ def merge(arr, left_half, right_half):
 # Simple test to demonstrate Merge Sort
 test_array = [64, 34, 25, 12, 22, 11, 90]
 merge_sort(test_array)
-test_array
+print(test_array)
